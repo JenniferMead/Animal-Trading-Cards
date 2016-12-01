@@ -1,1 +1,53 @@
-/* add your CSS here */
+*{
+font-family: 'Ubuntu', sans-serif;
+}
+
+#border1 {
+  border: 1px solid #e6e6e6;
+  padding: 10px;
+  margin: 20px;
+  max-width: 310px;
+  box-shadow: 16px 13px 42px -3px #888888;
+}
+
+h3 {
+margin: 10px 0px 10px 0px;
+font-size: 2em;
+}
+
+img {
+  max-width: 300px;
+}
+
+p {
+  margin: 10px 0px 10px 0px;
+}
+
+
+#fact {
+  font-style: italic;
+  max-width: 300px;
+}
+
+span {
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+  padding-right: 0px;
+  max-width: 300px;
+  margin: 5px 0px 5px 0px;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+#border2 {
+  max-width: 278px;
+  border: 1px solid #b3cce6;
+  padding: 10px;
+  background-color: #b3cce6;
+}
